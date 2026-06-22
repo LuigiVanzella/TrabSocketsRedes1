@@ -10,6 +10,8 @@ Vinicius Augusto de Souza Sabino;
 
 Gabriel Araújo Rodrigues;
 
+
+
 Sistema de chat em tempo real desenvolvido com **sockets TCP** em Python puro.
 
 ## Arquitetura
