@@ -72,4 +72,4 @@ Servidor → Cliente   : PRIVADO_ENVIADO:<dest>:<texto>
 
 ## Vídeo de demonstração
 
-> Link do YouTube: _adicionar aqui_
+> Link do YouTube: https://youtu.be/-Dp4BnYeB_o
